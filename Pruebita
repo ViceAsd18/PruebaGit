@@ -1,0 +1,16 @@
+git init
+
+git config user.name "ViceAsd18"
+
+git config user.email "vicen.ramirezg@duocuc.cl"
+
+git remote add origin "https://github.com/ViceAsd18/JAVA-GUI.git"
+
+git commit -m "Subiento archivo 1.0"
+
+git push -u origin master
+
+git clone 
+
+git pull
+
